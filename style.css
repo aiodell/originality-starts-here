@@ -1,8 +1,15 @@
 body{
-    background-color: blanchedalmond;
-
-    text-align: center;
+    background-color: lightcyan;
     font-family: 'Lucida Sans';
-    font-size: 30px;
-    color:darkred;
+}
+
+h1{
+    color: darkslateblue;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 300px;
+}
+
+#random-start{
+    text-align: center;
 }
